@@ -7,6 +7,7 @@
 * Push data from local to remote
 
 ##Activity 111816
+
 Villareal 	- 192.168.1.17:4000 3/3
 Tayabas 	- 192.168.1.20:4000 3/3
 Esmalla		- 192.168.1.14:4000 3/3
